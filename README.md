@@ -1,6 +1,6 @@
 # RAG — Retrieval-Augmented Generation Pipeline
 
-A modular Retrieval-Augmented Generation (RAG) pipeline built with LangChain, FAISS, and Groq LLM. 
+A modular Retrieval-Augmented Generation (RAG) pipeline built with LangChain and Groq LLM. 
 Designed to load documents (PDFs), embed them into a vector store, and answer natural language 
 queries with context-aware summarization.
 
