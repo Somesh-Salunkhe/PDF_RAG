@@ -25,7 +25,7 @@ PDF_RAG/
 ├── requirements.txt        # Python dependencies
 ├── RAG.svg                 # Architecture diagram
 └── .gitignore
-
+```
 ---
 
 ## ⚙️ How It Works
