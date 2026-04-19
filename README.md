@@ -1,4 +1,4 @@
-# RAG — Retrieval-Augmented Generation Pipeline
+# PDF_RAG — Retrieval-Augmented Generation Pipeline for PDFs
 
 A modular Retrieval-Augmented Generation (RAG) pipeline built with LangChain and Groq LLM. 
 Designed to load documents (PDFs), embed them into a vector store, and answer natural language 
@@ -11,7 +11,7 @@ queries with context-aware summarization.
 ---
 
 ## 🗂️ Project Structure
-RAG/
+PDF_RAG/
 ├── src/
 │ ├── data_loader.py # Document loading and preprocessing
 │ ├── vectorstore.py # FAISS vector store creation and loading
@@ -37,8 +37,8 @@ RAG/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Somesh-Salunkhe/RAG.git
-cd RAG
+git clone https://github.com/Somesh-Salunkhe/PDF_RAG.git
+cd PDF_RAG
 ```
 
 ### 2. Install dependencies
