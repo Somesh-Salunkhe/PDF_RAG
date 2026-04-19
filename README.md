@@ -12,15 +12,19 @@ queries with context-aware summarization.
 
 ## 🗂️ Project Structure
 PDF_RAG/
+│
 ├── src/
-│ ├── data_loader.py # Document loading and preprocessing
-│ ├── vectorstore.py # FAISS vector store creation and loading
-│ └── search.py # RAG search and summarization logic
-├── notebook/ # Jupyter notebooks for exploration
-├── main.py # Entry point for running the RAG pipeline
-├── requirements.txt # Python dependencies
-├── RAG.svg # Architecture diagram
+│   ├── data_loader.py      # Document loading and preprocessing
+│   ├── vectorstore.py      # FAISS vector store creation and loading
+│   └── search.py           # RAG search and summarization logic
+│
+├── notebook/               # Jupyter notebooks for exploration
+│
+├── main.py                 # Entry point for running the RAG pipeline
+├── requirements.txt        # Python dependencies
+├── RAG.svg                 # Architecture diagram
 └── .gitignore
+
 
 
 ## ⚙️ How It Works
