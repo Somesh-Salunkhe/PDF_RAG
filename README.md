@@ -26,7 +26,7 @@ PDF_RAG/
 ├── RAG.svg                 # Architecture diagram
 └── .gitignore
 
-
+---
 
 ## ⚙️ How It Works
 
